@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  width: 100vw;
+  height: 5vh;
+}
+
+.logo img {
+  float: left;
+  height: 5vh;
+}
+
+h1 {
+  display: block;
+  text-align: left;
+  color: white;
+}
+
+.categoryselect {
+  padding-bottom: 2vh;
+}
+
+h2 {
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  text-align: left;
+  color: white;
+}
+
+body {
+  padding-top: 5vh;
+  padding-left: 10vh;
+  padding-right: 7vh;
+  background: rgb(34, 34, 34);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 34, 34, 1) 0%,
+    rgba(19, 20, 23, 1) 50%
+  );
+}
+
+.ui dropdown !important {
+  padding-left: 10px;
+}
+
+.search {
+  padding-top: 1vh;
+  padding-bottom: 3vh;
+
+  text-align: left;
+}
+.ui card {
+  padding-top: 0.5vh;
+  padding-left: 0.5vh;
+  padding-right: 0.5vh;
+}

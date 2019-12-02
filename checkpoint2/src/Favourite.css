@@ -1,0 +1,7 @@
+.hearticon img {
+  height: 1.5vh;
+  float: left;
+}
+.liked {
+  background-color: #d3d3d3 !important;
+}
